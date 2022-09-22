@@ -17,7 +17,6 @@
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmlwl106&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/><br/>
-![gmlwl106's github stats](https://github-readme-stats.vercel.app/api?username=gmlwl106&show_icons=true)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnnnnk)](https://github.com/minnnnnk/github-readme-stats)
