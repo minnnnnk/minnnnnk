@@ -1,7 +1,7 @@
-### 안녕하세요 웹 개발자 공부중인 김민규입니다👋
+
 
 <div align=center>
-
+안녕하세요 웹 개발자 공부중인 김민규입니다👋
 <h2>🍀Tech Stack</h2>
 <br/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
