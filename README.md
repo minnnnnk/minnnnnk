@@ -21,5 +21,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnnnnk)](https://github.com/minnnnnk/github-readme-stats)
 
+https://github.com/minnnnnk/hit-counter
 </div>
 
